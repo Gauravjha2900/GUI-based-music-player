@@ -2,6 +2,7 @@
 A GUI based music player
 ## Installing dependencies with pip
 for Windows :- ```pip install -r requirements.txt```
+
 for MacOS :- ```pip3 install -r requirements.txt```
 
 ## Running the program
